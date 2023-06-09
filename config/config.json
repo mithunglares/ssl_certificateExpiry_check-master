@@ -1,0 +1,9 @@
+{
+  "ingest_url": "https://fhq90909.live.dynatrace.com/api/v2/metrics/ingest",
+  "headers": {
+    "accept": "application/json; charset=utf-8",
+    "Authorization": "Api-Token dt0c01.A***************.YVYXHGP**********************35ULAAMRC4EBICPUXQ2***********WYZLNLC3",
+    "Content-Type": "text/plain; charset=utf-8"
+  }
+}
+
